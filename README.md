@@ -6,6 +6,9 @@ trades logged onchain to **0G Chain** and journal/DCA data persisted to
 instead of a private database entry.
 
 Built by [@onyxcapita](https://x.com/onyxcapita) for the 0G Bridge Buildathon (Wave 3).
+🔗 Live app: onyxcapitalog.netlify.app
+🎥 Demo video: youtu.be/h0F0ANbNHWY
+🐦 Submission post: x.com/Web3alphazl/status/2095157250230714692
 
 ## Problem it solves
 
